@@ -1,6 +1,5 @@
 
 
 Dependencies:
-SFML-2.3
-cxxutils
+python-sfml
 
